@@ -1,0 +1,193 @@
+[
+  {
+    "_id": "6a835856da436928b5668239",
+    "action": "GUIDELINE_CREATED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "Guideline",
+    "targetId": "6a835856da436928b5668238",
+    "details": {
+      "title": "No loud music after 10 PM"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-17T18:52:06.660Z",
+    "updatedAt": "2026-08-17T18:52:06.660Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a83587eda436928b566823b",
+    "action": "PASSWORD_RESET_BY_ADMIN",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "User",
+    "targetId": "6a82fd057aad582510fe605f",
+    "details": {
+      "targetUser": "Ayesha Resident"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-17T18:52:46.348Z",
+    "updatedAt": "2026-08-17T18:52:46.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a83589cda436928b5668246",
+    "action": "GUIDELINE_CREATED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "Guideline",
+    "targetId": "6a83589cda436928b5668245",
+    "details": {
+      "title": "No loud music after 10 PM"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-17T18:53:16.977Z",
+    "updatedAt": "2026-08-17T18:53:16.977Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835c887fed87ad77357598",
+    "action": "PENALTIES_APPLIED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "MaintenanceBill",
+    "targetId": null,
+    "details": {
+      "penaltyPercentage": 5,
+      "updatedCount": 4
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-17T19:10:00.231Z",
+    "updatedAt": "2026-08-17T19:10:00.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835deba029cf846f9a32d0",
+    "action": "COMPLAINT_ASSIGNED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "Complaint",
+    "targetId": "6a8359d41d7e8ef293d60ed6",
+    "details": {
+      "ticketNumber": "TKT-100019",
+      "assignedTo": "Bilal Plumber"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-17T19:15:55.179Z",
+    "updatedAt": "2026-08-17T19:15:55.179Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835e0ca029cf846f9a32d1",
+    "action": "PASSWORD_RESET_BY_ADMIN",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "User",
+    "targetId": "6a833d5617681877badf4bd0",
+    "details": {
+      "targetUser": "Bilal Plumber"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-17T19:16:28.449Z",
+    "updatedAt": "2026-08-17T19:16:28.449Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835e32a029cf846f9a32d2",
+    "action": "COMPLAINT_STATUS_CHANGED",
+    "performedBy": "6a833d5617681877badf4bd0",
+    "targetEntity": "Complaint",
+    "targetId": "6a8359d41d7e8ef293d60ed6",
+    "details": {
+      "ticketNumber": "TKT-100019",
+      "from": "IN_PROGRESS",
+      "to": "RESOLVED"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-17T19:17:06.198Z",
+    "updatedAt": "2026-08-17T19:17:06.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a841211adb94defda9f01be",
+    "action": "EMERGENCY_ALERT_RESOLVED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "EmergencyAlert",
+    "targetId": "6a8411fcadb94defda9f0193",
+    "details": {
+      "alertType": "Security",
+      "locationDetails": "3"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-18T08:04:33.197Z",
+    "updatedAt": "2026-08-18T08:04:33.197Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8447962b481a0988797ec5",
+    "action": "PENALTIES_APPLIED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "MaintenanceBill",
+    "targetId": null,
+    "details": {
+      "penaltyPercentage": 5,
+      "updatedCount": 0
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-18T11:52:54.375Z",
+    "updatedAt": "2026-08-18T11:52:54.375Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8447a52b481a0988797ec6",
+    "action": "PENALTIES_APPLIED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "MaintenanceBill",
+    "targetId": null,
+    "details": {
+      "penaltyPercentage": 5,
+      "updatedCount": 0
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-18T11:53:09.979Z",
+    "updatedAt": "2026-08-18T11:53:09.979Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8457b22b481a0988797fee",
+    "action": "COMPLAINT_ASSIGNED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "Complaint",
+    "targetId": "6a84573b2b481a0988797f99",
+    "details": {
+      "ticketNumber": "TKT-752177",
+      "assignedTo": "Bilal Plumber"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-18T13:01:38.476Z",
+    "updatedAt": "2026-08-18T13:01:38.476Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8457d42b481a0988797fef",
+    "action": "PASSWORD_RESET_BY_ADMIN",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "User",
+    "targetId": "6a833d5617681877badf4bd0",
+    "details": {
+      "targetUser": "Bilal Plumber"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-18T13:02:12.953Z",
+    "updatedAt": "2026-08-18T13:02:12.953Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a845c02a5625f4226d1b17d",
+    "action": "COMPLAINT_ASSIGNED",
+    "performedBy": "6a82fcf97aad582510fe605e",
+    "targetEntity": "Complaint",
+    "targetId": "6a845bcaa5625f4226d1b152",
+    "details": {
+      "ticketNumber": "TKT-555201",
+      "assignedTo": "Bilal Plumber"
+    },
+    "ipAddress": "::1",
+    "createdAt": "2026-08-18T13:20:02.536Z",
+    "updatedAt": "2026-08-18T13:20:02.536Z",
+    "__v": 0
+  }
+]

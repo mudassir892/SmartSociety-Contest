@@ -1,0 +1,354 @@
+[
+  {
+    "_id": "6a83362b576032c23ee51a3b",
+    "name": "Community Clubhouse",
+    "description": "",
+    "capacity": 50,
+    "rules": "Standard community guidelines apply.",
+    "bookingFee": 1500,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T16:26:19.117Z",
+    "updatedAt": "2026-08-17T19:06:56.736Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a833d5a17681877badf4bd1",
+    "name": "Rooftop Sky Lounge",
+    "description": "",
+    "capacity": 30,
+    "rules": "Standard community guidelines apply.",
+    "bookingFee": 2000,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80&auto=format&fit=crop",
+      "public_id": "smart_society/amenities/hux140yhd35zdtov1vt6"
+    },
+    "createdAt": "2026-08-17T16:56:58.566Z",
+    "updatedAt": "2026-08-17T19:06:57.334Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e81d7e8ef293d60eeb",
+    "name": "Gymnasium",
+    "description": "Gymnasium available for residents to book by time slot.",
+    "capacity": 30,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 0,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:48.309Z",
+    "updatedAt": "2026-08-17T19:06:57.412Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e81d7e8ef293d60eec",
+    "name": "Swimming Pool",
+    "description": "Swimming Pool available for residents to book by time slot.",
+    "capacity": 25,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 200,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1519315901367-f34ff9154487?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:48.481Z",
+    "updatedAt": "2026-08-17T19:06:57.475Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e91d7e8ef293d60eed",
+    "name": "Kids Play Area",
+    "description": "Kids Play Area available for residents to book by time slot.",
+    "capacity": 20,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 0,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:49.204Z",
+    "updatedAt": "2026-08-17T19:06:57.560Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e91d7e8ef293d60eee",
+    "name": "Tennis Court",
+    "description": "Tennis Court available for residents to book by time slot.",
+    "capacity": 4,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 300,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:49.437Z",
+    "updatedAt": "2026-08-17T19:06:57.648Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ea1d7e8ef293d60eef",
+    "name": "Badminton Court",
+    "description": "Badminton Court available for residents to book by time slot.",
+    "capacity": 4,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 200,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:50.607Z",
+    "updatedAt": "2026-08-17T19:06:57.729Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359eb1d7e8ef293d60ef0",
+    "name": "Community Hall",
+    "description": "Community Hall available for residents to book by time slot.",
+    "capacity": 100,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 1500,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:51.166Z",
+    "updatedAt": "2026-08-17T19:06:57.814Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359eb1d7e8ef293d60ef1",
+    "name": "Yoga & Meditation Room",
+    "description": "Yoga & Meditation Room available for residents to book by time slot.",
+    "capacity": 15,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 0,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:51.783Z",
+    "updatedAt": "2026-08-17T19:06:57.877Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ec1d7e8ef293d60ef2",
+    "name": "Library & Reading Room",
+    "description": "Library & Reading Room available for residents to book by time slot.",
+    "capacity": 20,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 0,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:52.166Z",
+    "updatedAt": "2026-08-17T19:06:57.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ed1d7e8ef293d60ef3",
+    "name": "Guest Parking Bay",
+    "description": "Guest Parking Bay available for residents to book by time slot.",
+    "capacity": 10,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 100,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:53.016Z",
+    "updatedAt": "2026-08-17T19:06:58.044Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ed1d7e8ef293d60ef4",
+    "name": "BBQ & Grill Deck",
+    "description": "BBQ & Grill Deck available for residents to book by time slot.",
+    "capacity": 25,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 500,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:53.166Z",
+    "updatedAt": "2026-08-17T19:06:58.128Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ed1d7e8ef293d60ef5",
+    "name": "Squash Court",
+    "description": "Squash Court available for residents to book by time slot.",
+    "capacity": 2,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 250,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1620742820748-87c09249a72a?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:53.930Z",
+    "updatedAt": "2026-08-17T19:06:58.192Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ee1d7e8ef293d60ef6",
+    "name": "Table Tennis Room",
+    "description": "Table Tennis Room available for residents to book by time slot.",
+    "capacity": 6,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 100,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1552667466-07770ae110d0?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:54.332Z",
+    "updatedAt": "2026-08-17T19:06:58.266Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ee1d7e8ef293d60ef7",
+    "name": "Cricket Practice Net",
+    "description": "Cricket Practice Net available for residents to book by time slot.",
+    "capacity": 8,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 300,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:54.930Z",
+    "updatedAt": "2026-08-17T19:06:58.327Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ef1d7e8ef293d60ef8",
+    "name": "Jogging Track",
+    "description": "Jogging Track available for residents to book by time slot.",
+    "capacity": 30,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 0,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:55.630Z",
+    "updatedAt": "2026-08-17T19:06:58.398Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359f01d7e8ef293d60ef9",
+    "name": "Amphitheater",
+    "description": "Amphitheater available for residents to book by time slot.",
+    "capacity": 80,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 1000,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:56.188Z",
+    "updatedAt": "2026-08-17T19:06:58.477Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359f01d7e8ef293d60efa",
+    "name": "Co-working Lounge",
+    "description": "Co-working Lounge available for residents to book by time slot.",
+    "capacity": 12,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 150,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:56.358Z",
+    "updatedAt": "2026-08-17T19:06:58.543Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359f11d7e8ef293d60efb",
+    "name": "Indoor Games Room",
+    "description": "Indoor Games Room available for residents to book by time slot.",
+    "capacity": 15,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 0,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:57.087Z",
+    "updatedAt": "2026-08-17T19:06:58.622Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359f11d7e8ef293d60efc",
+    "name": "Banquet Hall",
+    "description": "Banquet Hall available for residents to book by time slot.",
+    "capacity": 150,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 2500,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:57.392Z",
+    "updatedAt": "2026-08-17T19:06:58.683Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359f11d7e8ef293d60efd",
+    "name": "Snooker Room",
+    "description": "Snooker Room available for residents to book by time slot.",
+    "capacity": 6,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 150,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:57.791Z",
+    "updatedAt": "2026-08-17T19:06:58.774Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359f21d7e8ef293d60efe",
+    "name": "Barbeque Garden",
+    "description": "Barbeque Garden available for residents to book by time slot.",
+    "capacity": 40,
+    "rules": "Please book in advance and vacate on time for the next reservation.",
+    "bookingFee": 400,
+    "isActive": true,
+    "image": {
+      "url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80&auto=format&fit=crop",
+      "public_id": ""
+    },
+    "createdAt": "2026-08-17T18:58:58.210Z",
+    "updatedAt": "2026-08-17T19:06:58.892Z",
+    "__v": 0
+  }
+]

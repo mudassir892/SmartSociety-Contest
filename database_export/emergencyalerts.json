@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "6a8411fcadb94defda9f0193",
+    "senderId": "6a8359ae1d7e8ef293d60ea8",
+    "flatId": "6a8359a51d7e8ef293d60e94",
+    "alertType": "Security",
+    "locationDetails": "3",
+    "status": "RESOLVED",
+    "resolvedBy": "6a82fcf97aad582510fe605e",
+    "triggeredAt": "2026-08-18T08:04:12.448Z",
+    "resolvedAt": "2026-08-18T08:04:33.090Z",
+    "createdAt": "2026-08-18T08:04:12.449Z",
+    "updatedAt": "2026-08-18T08:04:33.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8419afb6cfe2a3597e8db1",
+    "senderId": "6a8359ae1d7e8ef293d60ea8",
+    "flatId": "6a8359a51d7e8ef293d60e94",
+    "alertType": "Security",
+    "locationDetails": "Main Gate Test",
+    "status": "ACTIVE",
+    "resolvedBy": null,
+    "triggeredAt": "2026-08-18T08:37:03.402Z",
+    "resolvedAt": null,
+    "createdAt": "2026-08-18T08:37:03.405Z",
+    "updatedAt": "2026-08-18T08:37:03.405Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a845dbaa5625f4226d1b1aa",
+    "senderId": "6a8359ae1d7e8ef293d60ea8",
+    "flatId": "6a8359a51d7e8ef293d60e94",
+    "alertType": "Security",
+    "locationDetails": "cscskcnsklcc",
+    "status": "ACTIVE",
+    "resolvedBy": null,
+    "triggeredAt": "2026-08-18T13:27:22.964Z",
+    "resolvedAt": null,
+    "createdAt": "2026-08-18T13:27:22.965Z",
+    "updatedAt": "2026-08-18T13:27:22.965Z",
+    "__v": 0
+  }
+]

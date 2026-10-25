@@ -1,0 +1,995 @@
+[
+  {
+    "_id": "6a82fcf97aad582510fe605e",
+    "name": "Admin",
+    "email": "admin@smartsociety.com",
+    "phone": "+923001234567",
+    "password": "$2b$10$fCrhCYBHoorX85T9wprKd.uanLvZ1/92xHPQ7KU9snWax/9BFr/xy",
+    "role": "Admin",
+    "avatar": {
+      "url": "https://res.cloudinary.com/dhftpumq5/image/upload/v1786986561/smart_society/avatars/ttcgenxobdxmkpyvmagw.png",
+      "public_id": "smart_society/avatars/ttcgenxobdxmkpyvmagw"
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T12:22:17.190Z",
+    "updatedAt": "2026-08-18T13:20:17.894Z",
+    "__v": 1,
+    "profession": "",
+    "familyMembers": []
+  },
+  {
+    "_id": "6a82fd057aad582510fe605f",
+    "name": "Ayesha Resident",
+    "email": "resident@smartsociety.com",
+    "phone": "+923001112222",
+    "password": "$2b$10$FASJIso4P7GhkPJD681XMuHcrTHoi5Sa9I84/pZ3ADmyXyqxqUuSi",
+    "role": "Resident",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a83020bb28a5b6a0d852cc1",
+    "occupancyStatus": "Owner",
+    "isActive": true,
+    "vehicles": [
+      {
+        "type": "2-Wheeler",
+        "vehicleNumber": "LEC-9988"
+      }
+    ],
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T12:22:29.866Z",
+    "updatedAt": "2026-08-17T19:21:34.241Z",
+    "__v": 2,
+    "profession": "",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhODJmZDA1N2FhZDU4MjUxMGZlNjA1ZiIsImlhdCI6MTc4Njk5NDQ5NCwiZXhwIjoxNzg5NTg2NDk0fQ.6hHcv868DMgsPLGHduLdyEj3EsTJoqEgDOzEUNTqG-4",
+    "familyMembers": []
+  },
+  {
+    "_id": "6a82fd067aad582510fe6060",
+    "name": "Gate Guard",
+    "email": "guard@smartsociety.com",
+    "phone": "+923003334444",
+    "password": "$2b$10$l2K5/o4QtiktJyUHtwVKEuIELIscK2shtCSTNTMZpPvg8eX490JH.",
+    "role": "Guard",
+    "avatar": {
+      "url": "https://res.cloudinary.com/dhftpumq5/image/upload/v1786986860/smart_society/avatars/ln8yhslxp7fq2qsq8vti.png",
+      "public_id": "smart_society/avatars/ln8yhslxp7fq2qsq8vti"
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T12:22:30.382Z",
+    "updatedAt": "2026-08-17T17:41:42.736Z",
+    "__v": 0,
+    "profession": ""
+  },
+  {
+    "_id": "6a82fd067aad582510fe6061",
+    "name": "Maintenance Staff",
+    "email": "staff@smartsociety.com",
+    "phone": "+923005556666",
+    "password": "$2b$10$Syzpwg2uGT9njjw6hVQB7uHMuW3t13PDeI9eBnlfxG3SYbGrURyBy",
+    "role": "Staff",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T12:22:30.892Z",
+    "updatedAt": "2026-08-17T16:55:14.107Z",
+    "__v": 0,
+    "profession": ""
+  },
+  {
+    "_id": "6a833d5617681877badf4bd0",
+    "name": "Bilal Plumber",
+    "email": "bilal.plumber@smartsociety.com",
+    "phone": "+923331112233",
+    "password": "$2b$10$umkh3ZXWFN3n.hEq0JvIY.Xw30BV8kN0SmFCGjzc.3NCceXlhuwTe",
+    "role": "Staff",
+    "profession": "Plumber",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T16:56:54.133Z",
+    "updatedAt": "2026-08-18T13:20:24.423Z",
+    "__v": 1,
+    "familyMembers": [],
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhODMzZDU2MTc2ODE4NzdiYWRmNGJkMCIsImlhdCI6MTc4NzA1OTIyNCwiZXhwIjoxNzg5NjUxMjI0fQ.KdOtkkyANdcQ-XlSdzg-ig7HabTqtWRspBzDmzFQ9-k"
+  },
+  {
+    "_id": "6a8359ae1d7e8ef293d60ea8",
+    "name": "Ahmed Raza",
+    "email": "resident2@smartsociety.com",
+    "phone": "+92302878705",
+    "password": "$2b$10$yQy4k9ZF.nY5RMId/Wj94On0nkoGMXZ2/DQW4XDWCpYVdjGo0H9mq",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359a51d7e8ef293d60e94",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "Other",
+        "vehicleNumber": "LE34-7742"
+      },
+      {
+        "type": "2-Wheeler",
+        "vehicleNumber": "LE70-8122"
+      }
+    ],
+    "familyMembers": [
+      {
+        "name": "Ali",
+        "relation": "Tenant",
+        "age": 8
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:50.199Z",
+    "updatedAt": "2026-08-18T13:31:07.459Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ae1d7e8ef293d60ea9",
+    "name": "Fatima Khan",
+    "email": "resident3@smartsociety.com",
+    "phone": "+92307985146",
+    "password": "$2b$10$8Qdg4ddxUwLi/11AhYkk2ecgPRaH4KzzK3HVqvyIBEWgEF5xBsyOW",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359a91d7e8ef293d60e95",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "Other",
+        "vehicleNumber": "LE60-9236"
+      }
+    ],
+    "familyMembers": [],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:50.558Z",
+    "updatedAt": "2026-08-17T18:57:50.558Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ae1d7e8ef293d60eaa",
+    "name": "Usman Tariq",
+    "email": "resident4@smartsociety.com",
+    "phone": "+92302058828",
+    "password": "$2b$10$eGrdt9eLrrMN3saaEOSehO/1JIlS4XpCJbZnoZiLqpyEsy9r5u2gu",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359a91d7e8ef293d60e96",
+    "occupancyStatus": "Owner",
+    "vehicles": [],
+    "familyMembers": [],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:50.878Z",
+    "updatedAt": "2026-08-17T18:57:50.878Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359af1d7e8ef293d60eab",
+    "name": "Sana Malik",
+    "email": "resident5@smartsociety.com",
+    "phone": "+92308419755",
+    "password": "$2b$10$IIfbHD0gN7NC3.LKZwiHs.Y8NitLyxEDJBILRVfb3cNogZLStRYmq",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359a91d7e8ef293d60e97",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "2-Wheeler",
+        "vehicleNumber": "LE69-6601"
+      },
+      {
+        "type": "Other",
+        "vehicleNumber": "LE85-5583"
+      }
+    ],
+    "familyMembers": [
+      {
+        "name": "Ali",
+        "relation": "Son",
+        "age": 63
+      },
+      {
+        "name": "Zoya",
+        "relation": "Spouse",
+        "age": 22
+      },
+      {
+        "name": "Zoya",
+        "relation": "Sibling",
+        "age": 23
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:51.152Z",
+    "updatedAt": "2026-08-17T18:57:51.152Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359af1d7e8ef293d60eac",
+    "name": "Bilal Hussain",
+    "email": "resident6@smartsociety.com",
+    "phone": "+92303550938",
+    "password": "$2b$10$srDfPpCxYHUG3WojycivCecoaRHX86PPBokKrhpiZU1DEC/UTqH8.",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359aa1d7e8ef293d60e98",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "Other",
+        "vehicleNumber": "LE83-9077"
+      }
+    ],
+    "familyMembers": [
+      {
+        "name": "Areeba",
+        "relation": "Spouse",
+        "age": 7
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:51.466Z",
+    "updatedAt": "2026-08-17T18:57:51.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359af1d7e8ef293d60ead",
+    "name": "Zainab Ahmed",
+    "email": "resident7@smartsociety.com",
+    "phone": "+92307955650",
+    "password": "$2b$10$qrYZ2Z7piTzvTLMx1K6gJu4.P/cmLPi0jdoEkc2JRMRXH8Q8xASFW",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359aa1d7e8ef293d60e99",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "4-Wheeler",
+        "vehicleNumber": "LE62-7902"
+      }
+    ],
+    "familyMembers": [
+      {
+        "name": "Areeba",
+        "relation": "Son",
+        "age": 48
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:51.739Z",
+    "updatedAt": "2026-08-17T18:57:51.739Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b01d7e8ef293d60eae",
+    "name": "Hassan Ali",
+    "email": "resident8@smartsociety.com",
+    "phone": "+92309481449",
+    "password": "$2b$10$sMQufjGsvobS3cIq9xwzeOTz9NDQpOH9dRXLyMITvLRbmTnz6VgES",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359aa1d7e8ef293d60e9a",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "2-Wheeler",
+        "vehicleNumber": "LE72-9752"
+      }
+    ],
+    "familyMembers": [
+      {
+        "name": "Zoya",
+        "relation": "Sibling",
+        "age": 48
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:52.013Z",
+    "updatedAt": "2026-08-17T18:57:52.013Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b01d7e8ef293d60eaf",
+    "name": "Mariam Yousuf",
+    "email": "resident9@smartsociety.com",
+    "phone": "+92301024563",
+    "password": "$2b$10$rcftFWGFEXvINZb.rf8Om.ntScOgdlIsD69d5wKK/Aa4i9CMS8g9.",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ab1d7e8ef293d60e9b",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "Other",
+        "vehicleNumber": "LE72-6730"
+      }
+    ],
+    "familyMembers": [
+      {
+        "name": "Danish",
+        "relation": "Son",
+        "age": 30
+      },
+      {
+        "name": "Danish",
+        "relation": "Spouse",
+        "age": 43
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:52.321Z",
+    "updatedAt": "2026-08-17T18:57:52.321Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b01d7e8ef293d60eb0",
+    "name": "Omar Farooq",
+    "email": "resident10@smartsociety.com",
+    "phone": "+92303062426",
+    "password": "$2b$10$LJPcMcu.GWeqAg8/fusphe/NKpMjD..0IQZizWvQ60y6z7nltkZzS",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ab1d7e8ef293d60e9c",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "Other",
+        "vehicleNumber": "LE25-6371"
+      }
+    ],
+    "familyMembers": [],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:52.595Z",
+    "updatedAt": "2026-08-17T18:57:52.595Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b01d7e8ef293d60eb1",
+    "name": "Nadia Iqbal",
+    "email": "resident11@smartsociety.com",
+    "phone": "+92309071186",
+    "password": "$2b$10$6YfFES5.Bn0BZpUfT8B5Eeqi5TYFBEfS58TECdQrLDO/O9z3HFfFS",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ab1d7e8ef293d60e9d",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "2-Wheeler",
+        "vehicleNumber": "LE68-1939"
+      }
+    ],
+    "familyMembers": [],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:52.903Z",
+    "updatedAt": "2026-08-17T18:57:52.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b11d7e8ef293d60eb2",
+    "name": "Imran Sheikh",
+    "email": "resident12@smartsociety.com",
+    "phone": "+92306526634",
+    "password": "$2b$10$Lxm5eWL1A/dY9QbLsU9NKugV9f/6JE596NaS/CBs0zc.IcYZTm4bG",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ac1d7e8ef293d60e9e",
+    "occupancyStatus": "Owner",
+    "vehicles": [],
+    "familyMembers": [
+      {
+        "name": "Areeba",
+        "relation": "Son",
+        "age": 5
+      },
+      {
+        "name": "Areeba",
+        "relation": "Tenant",
+        "age": 12
+      },
+      {
+        "name": "Danish",
+        "relation": "Sibling",
+        "age": 59
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:53.208Z",
+    "updatedAt": "2026-08-17T18:57:53.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b11d7e8ef293d60eb3",
+    "name": "Rabia Chaudhry",
+    "email": "resident13@smartsociety.com",
+    "phone": "+92309301775",
+    "password": "$2b$10$zzvibeLBmu.azAPiPw.E2OpEXW0OdIv4mnpTlu/bXTK1BhgGI8QOe",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ac1d7e8ef293d60e9f",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "4-Wheeler",
+        "vehicleNumber": "LE10-2802"
+      },
+      {
+        "type": "4-Wheeler",
+        "vehicleNumber": "LE53-6992"
+      }
+    ],
+    "familyMembers": [],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:53.665Z",
+    "updatedAt": "2026-08-17T18:57:53.665Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b11d7e8ef293d60eb4",
+    "name": "Kamran Baig",
+    "email": "resident14@smartsociety.com",
+    "phone": "+92302298464",
+    "password": "$2b$10$QZV2UrkAqOzg18rmxcWKfubQjk/JztGIouUKc59PENN5ZlDHZQpDm",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ac1d7e8ef293d60ea0",
+    "occupancyStatus": "Owner",
+    "vehicles": [],
+    "familyMembers": [
+      {
+        "name": "Hamza",
+        "relation": "Sibling",
+        "age": 46
+      },
+      {
+        "name": "Zoya",
+        "relation": "Parent",
+        "age": 19
+      },
+      {
+        "name": "Areeba",
+        "relation": "Daughter",
+        "age": 49
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:54.001Z",
+    "updatedAt": "2026-08-17T18:57:54.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b21d7e8ef293d60eb5",
+    "name": "Sadia Nawaz",
+    "email": "resident15@smartsociety.com",
+    "phone": "+92305483588",
+    "password": "$2b$10$d5QSvU9luRKJrlsSuMVbt.tLnryYqrGu3gklYcFhpo885TOMqooXW",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ac1d7e8ef293d60ea1",
+    "occupancyStatus": "Owner",
+    "vehicles": [],
+    "familyMembers": [
+      {
+        "name": "Areeba",
+        "relation": "Spouse",
+        "age": 38
+      },
+      {
+        "name": "Sara",
+        "relation": "Daughter",
+        "age": 22
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:54.290Z",
+    "updatedAt": "2026-08-17T18:57:54.290Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b31d7e8ef293d60eb6",
+    "name": "Faisal Mahmood",
+    "email": "resident16@smartsociety.com",
+    "phone": "+92304738061",
+    "password": "$2b$10$8ndymEd6SlMj.lZWX4h2keHjmqJsVHPWA17JuxoYyYbG65Q5WTrq6",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ad1d7e8ef293d60ea2",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "Other",
+        "vehicleNumber": "LE50-2034"
+      }
+    ],
+    "familyMembers": [],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:55.244Z",
+    "updatedAt": "2026-08-17T18:57:55.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b31d7e8ef293d60eb7",
+    "name": "Sobia Aslam",
+    "email": "resident17@smartsociety.com",
+    "phone": "+92305948764",
+    "password": "$2b$10$AffHOsOXyxhc5wWwl8Pm6uBtVB2yiqZbtUf.LTu34HGWm2MFKM5aq",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ad1d7e8ef293d60ea3",
+    "occupancyStatus": "Owner",
+    "vehicles": [],
+    "familyMembers": [
+      {
+        "name": "Areeba",
+        "relation": "Spouse",
+        "age": 39
+      },
+      {
+        "name": "Hamza",
+        "relation": "Spouse",
+        "age": 20
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:55.551Z",
+    "updatedAt": "2026-08-17T18:57:55.551Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b31d7e8ef293d60eb8",
+    "name": "Tariq Jameel",
+    "email": "resident18@smartsociety.com",
+    "phone": "+92302626971",
+    "password": "$2b$10$F2EJZI3/0ijQB10otI7qcOTt4hYswrSZcRbdAj2X9IISGNXtlgBwa",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ad1d7e8ef293d60ea4",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "2-Wheeler",
+        "vehicleNumber": "LE35-2906"
+      }
+    ],
+    "familyMembers": [],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:55.883Z",
+    "updatedAt": "2026-08-17T18:57:55.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b41d7e8ef293d60eb9",
+    "name": "Hina Riaz",
+    "email": "resident19@smartsociety.com",
+    "phone": "+92301657461",
+    "password": "$2b$10$WdOQFxea6oY5QBYdoL9P4O6WFxuB/Qage6voYzMxSQCZbCTwL8FYq",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": "6a8359ad1d7e8ef293d60ea5",
+    "occupancyStatus": "Owner",
+    "vehicles": [
+      {
+        "type": "2-Wheeler",
+        "vehicleNumber": "LE35-2602"
+      },
+      {
+        "type": "2-Wheeler",
+        "vehicleNumber": "LE11-5079"
+      }
+    ],
+    "familyMembers": [
+      {
+        "name": "Zoya",
+        "relation": "Tenant",
+        "age": 28
+      }
+    ],
+    "isActive": true,
+    "emergencyContacts": [],
+    "createdAt": "2026-08-17T18:57:56.206Z",
+    "updatedAt": "2026-08-17T18:57:56.206Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b41d7e8ef293d60eba",
+    "name": "Naveed Akhtar",
+    "email": "guard2@smartsociety.com",
+    "phone": "+92319144458",
+    "password": "$2b$10$EiMvQcEci6w03QJ/6JwdgutLBbTDUk44gCTJMCUNqpPspql17x1iG",
+    "role": "Guard",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:56.552Z",
+    "updatedAt": "2026-08-18T13:31:22.205Z",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhODM1OWI0MWQ3ZThlZjI5M2Q2MGViYSIsImlhdCI6MTc4NzA1OTg4MiwiZXhwIjoxNzg5NjUxODgyfQ.fs_6VpCzwDQAmvoPiWd99fHKWgpErLR5cIs1InOUSc4"
+  },
+  {
+    "_id": "6a8359b41d7e8ef293d60ebb",
+    "name": "Shahid Mehmood",
+    "email": "guard3@smartsociety.com",
+    "phone": "+92312314656",
+    "password": "$2b$10$WXxJu2Ax.frRk2UNpI5ZG./yFvju/h.1ZWJhqYaJSvtWbtTTXgDse",
+    "role": "Guard",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:56.811Z",
+    "updatedAt": "2026-08-17T18:57:56.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b51d7e8ef293d60ebc",
+    "name": "Aslam Pervez",
+    "email": "guard4@smartsociety.com",
+    "phone": "+92319604310",
+    "password": "$2b$10$FqUUpMQrrzWhVCDwZsQ3ZejqkQf5QH88vpmwVzuyBASjpnR/KLXiS",
+    "role": "Guard",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:57.085Z",
+    "updatedAt": "2026-08-17T18:57:57.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b51d7e8ef293d60ebd",
+    "name": "Rashid Qureshi",
+    "email": "guard5@smartsociety.com",
+    "phone": "+92313400524",
+    "password": "$2b$10$i083NavawJcRwuCn3mzVQ.1WEmpgL3EPV2x/6WYTzIdLGzz4ugFQO",
+    "role": "Guard",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:57.302Z",
+    "updatedAt": "2026-08-17T18:57:57.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b51d7e8ef293d60ebe",
+    "name": "Sajid Mehboob",
+    "email": "electrician2@smartsociety.com",
+    "phone": "+92322036984",
+    "password": "$2b$10$w.pOFzNToUI/m5gZghAjX.FTI0blMTWq.w3//P/4D2UAqYEmhOyam",
+    "role": "Staff",
+    "profession": "Electrician",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:57.617Z",
+    "updatedAt": "2026-08-18T13:18:44.489Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b51d7e8ef293d60ebf",
+    "name": "Waqas Anwar",
+    "email": "carpenter2@smartsociety.com",
+    "phone": "+92327810712",
+    "password": "$2b$10$p9o3fi81PY2I9P2T1At4T.JQwCrIcje5YOlpwjyVtVKZQTETVHY7e",
+    "role": "Staff",
+    "profession": "Carpenter",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:57.845Z",
+    "updatedAt": "2026-08-17T18:57:57.845Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b61d7e8ef293d60ec0",
+    "name": "Imtiaz Gill",
+    "email": "painter2@smartsociety.com",
+    "phone": "+92328432498",
+    "password": "$2b$10$f05nn2ZtajR.94HCyTXc6.Ff8PbJUzMKFTWFN39FphlJF9YsjoWCC",
+    "role": "Staff",
+    "profession": "Painter",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:58.207Z",
+    "updatedAt": "2026-08-17T18:57:58.207Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b61d7e8ef293d60ec1",
+    "name": "Kashif Rasheed",
+    "email": "actechnician2@smartsociety.com",
+    "phone": "+92329927746",
+    "password": "$2b$10$UR/w7wOP6DOTO2zJ8rI3veTBPL9rZ8HgZM9qsA/BcRC9Wd6GcR1Hq",
+    "role": "Staff",
+    "profession": "AC Technician",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:58.434Z",
+    "updatedAt": "2026-08-17T18:57:58.434Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359b61d7e8ef293d60ec2",
+    "name": "Nasreen Bibi",
+    "email": "cleaner2@smartsociety.com",
+    "phone": "+92326965546",
+    "password": "$2b$10$YryO1Kpg3wF41dp6C6HFE.Dx/zQDtKoTp9L0o.5V2/PB1JYq7i2XO",
+    "role": "Staff",
+    "profession": "Cleaner",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-17T18:57:58.761Z",
+    "updatedAt": "2026-08-17T18:57:58.761Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a84012c384850023ace8dc2",
+    "name": "Public Signup Test",
+    "email": "publictest1@test.com",
+    "phone": "+923001112233",
+    "password": "$2b$10$PI3kf4GKWtNUB2XIyn2ExOlv3XAL0.SEjk2YMOfdrPsH6Yt4Q.q9W",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-18T06:52:28.793Z",
+    "updatedAt": "2026-08-18T06:52:28.979Z",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhODQwMTJjMzg0ODUwMDIzYWNlOGRjMiIsImlhdCI6MTc4NzAzNTk0OCwiZXhwIjoxNzg5NjI3OTQ4fQ.6O6g50fomjelv39mcJExyx4LPkOW0cRfkDbhQo-plDA"
+  },
+  {
+    "_id": "6a84013a384850023ace8dc3",
+    "name": "Admin Created Guard",
+    "email": "admincreatedguard1@test.com",
+    "phone": "+923009998877",
+    "password": "$2b$10$ycYaoTjeFNK.zOFwkFd4TOw0P3ktT4LxhUkwu3y68CbM5gjBFBmJS",
+    "role": "Guard",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-18T06:52:42.306Z",
+    "updatedAt": "2026-08-18T06:52:42.475Z",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhODQwMTNhMzg0ODUwMDIzYWNlOGRjMyIsImlhdCI6MTc4NzAzNTk2MiwiZXhwIjoxNzg5NjI3OTYyfQ.7n3OpJAclttnkxaRcg-FEeYO0leEhWxUBhFjMpDATFo"
+  },
+  {
+    "_id": "6a840585384850023ace8dc4",
+    "name": "Fresh Resident",
+    "email": "newresident1787037061234@test.com",
+    "phone": "+923001231234",
+    "password": "$2b$10$dAZrJA9efkNknymWFoDOie4W0gpBel3mbNmZaN8v4wTU4O5wzcciG",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-18T07:11:01.462Z",
+    "updatedAt": "2026-08-18T07:11:02.782Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a840ba2384850023ace8ed6",
+    "name": "Register Test User",
+    "email": "regtest1787038626760@test.com",
+    "phone": "+923001112233",
+    "password": "$2b$10$DZdrzRTIH.wlrmZdKdqHu.4kj3YZVoZfVfH3di3jKGFXYcRJI88Jy",
+    "role": "Resident",
+    "profession": "",
+    "avatar": {
+      "url": "",
+      "public_id": ""
+    },
+    "flatId": null,
+    "occupancyStatus": "None",
+    "isActive": true,
+    "vehicles": [],
+    "emergencyContacts": [],
+    "familyMembers": [],
+    "createdAt": "2026-08-18T07:37:06.976Z",
+    "updatedAt": "2026-08-18T07:37:07.163Z",
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhODQwYmEyMzg0ODUwMDIzYWNlOGVkNiIsImlhdCI6MTc4NzAzODYyNywiZXhwIjoxNzg5NjMwNjI3fQ._4Qv9ljB_NZ1yxUxs_uqAqmeRUKH5Z49cnlYoHdzCJI"
+  }
+]

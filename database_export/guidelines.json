@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "6a835856da436928b5668238",
+    "title": "No loud music after 10 PM",
+    "content": "Please keep noise levels low after 10 PM to respect fellow residents.",
+    "category": "General",
+    "order": 0,
+    "authorId": "6a82fcf97aad582510fe605e",
+    "createdAt": "2026-08-17T18:52:06.586Z",
+    "updatedAt": "2026-08-17T18:52:06.586Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a83589cda436928b5668245",
+    "title": "No loud music after 10 PM",
+    "content": "Please keep noise levels low after 10 PM to respect fellow residents.",
+    "category": "General",
+    "order": 0,
+    "authorId": "6a82fcf97aad582510fe605e",
+    "createdAt": "2026-08-17T18:53:16.295Z",
+    "updatedAt": "2026-08-17T18:53:16.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ff1d7e8ef293d60f39",
+    "title": "Quiet hours policy",
+    "content": "Please keep noise to a minimum between 10 PM and 7 AM out of respect for neighbors.",
+    "category": "General",
+    "order": 0,
+    "authorId": "6a82fcf97aad582510fe605e",
+    "createdAt": "2026-08-17T18:59:11.148Z",
+    "updatedAt": "2026-08-17T18:59:11.148Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ff1d7e8ef293d60f3a",
+    "title": "Visitor parking rules",
+    "content": "Visitors must park only in designated guest bays and register at the gate.",
+    "category": "Parking",
+    "order": 1,
+    "authorId": "6a82fcf97aad582510fe605e",
+    "createdAt": "2026-08-17T18:59:11.429Z",
+    "updatedAt": "2026-08-17T18:59:11.429Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359ff1d7e8ef293d60f3b",
+    "title": "Pet leash policy",
+    "content": "All pets must be leashed while in common areas and corridors.",
+    "category": "Pets",
+    "order": 2,
+    "authorId": "6a82fcf97aad582510fe605e",
+    "createdAt": "2026-08-17T18:59:11.967Z",
+    "updatedAt": "2026-08-17T18:59:11.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a001d7e8ef293d60f3c",
+    "title": "Amenity booking etiquette",
+    "content": "Cancel your amenity booking at least 2 hours in advance if plans change.",
+    "category": "Amenities",
+    "order": 3,
+    "authorId": "6a82fcf97aad582510fe605e",
+    "createdAt": "2026-08-17T18:59:12.113Z",
+    "updatedAt": "2026-08-17T18:59:12.113Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a001d7e8ef293d60f3d",
+    "title": "Fire safety guidelines",
+    "content": "Keep fire exits clear at all times and do not store items in stairwells.",
+    "category": "Safety",
+    "order": 4,
+    "authorId": "6a82fcf97aad582510fe605e",
+    "createdAt": "2026-08-17T18:59:12.994Z",
+    "updatedAt": "2026-08-17T18:59:12.994Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a011d7e8ef293d60f3e",
+    "title": "Maintenance request process",
+    "content": "Log all maintenance issues through the Complaints page for faster resolution.",
+    "category": "Maintenance",
+    "order": 5,
+    "authorId": "6a82fcf97aad582510fe605e",
+    "createdAt": "2026-08-17T18:59:13.989Z",
+    "updatedAt": "2026-08-17T18:59:13.989Z",
+    "__v": 0
+  }
+]

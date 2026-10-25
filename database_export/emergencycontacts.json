@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "6a835859da436928b566823a",
+    "name": "Rajesh Kumar",
+    "designation": "",
+    "phone": "9876543210",
+    "type": "Society Office",
+    "isActive": true,
+    "createdAt": "2026-08-17T18:52:09.583Z",
+    "updatedAt": "2026-08-17T18:52:09.583Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8358a4da436928b5668247",
+    "name": "Rajesh Kumar",
+    "designation": "",
+    "phone": "9876543210",
+    "type": "Society Office",
+    "isActive": true,
+    "createdAt": "2026-08-17T18:53:24.443Z",
+    "updatedAt": "2026-08-17T18:53:24.443Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a021d7e8ef293d60f3f",
+    "name": "Society Security Desk",
+    "designation": "Main Gate Security",
+    "phone": "+923011112222",
+    "type": "Security",
+    "isActive": true,
+    "createdAt": "2026-08-17T18:59:14.622Z",
+    "updatedAt": "2026-08-17T18:59:14.622Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a021d7e8ef293d60f40",
+    "name": "Fire Brigade",
+    "designation": "Emergency Services",
+    "phone": "1122",
+    "type": "Fire",
+    "isActive": true,
+    "createdAt": "2026-08-17T18:59:14.838Z",
+    "updatedAt": "2026-08-17T18:59:14.838Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a031d7e8ef293d60f41",
+    "name": "Local Police Station",
+    "designation": "City Police",
+    "phone": "15",
+    "type": "Police",
+    "isActive": true,
+    "createdAt": "2026-08-17T18:59:15.333Z",
+    "updatedAt": "2026-08-17T18:59:15.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a041d7e8ef293d60f42",
+    "name": "Ambulance Service",
+    "designation": "Edhi Emergency",
+    "phone": "115",
+    "type": "Ambulance",
+    "isActive": true,
+    "createdAt": "2026-08-17T18:59:16.027Z",
+    "updatedAt": "2026-08-17T18:59:16.027Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a041d7e8ef293d60f43",
+    "name": "Society Management Office",
+    "designation": "Admin Office",
+    "phone": "+923011119999",
+    "type": "Society Office",
+    "isActive": true,
+    "createdAt": "2026-08-17T18:59:16.248Z",
+    "updatedAt": "2026-08-17T18:59:16.248Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a835a041d7e8ef293d60f44",
+    "name": "Plumbing Emergency",
+    "designation": "On-call Plumber",
+    "phone": "+923011117777",
+    "type": "Maintenance",
+    "isActive": true,
+    "createdAt": "2026-08-17T18:59:16.783Z",
+    "updatedAt": "2026-08-17T18:59:16.783Z",
+    "__v": 0
+  }
+]

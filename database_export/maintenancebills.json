@@ -1,0 +1,569 @@
+[
+  {
+    "_id": "6a833630576032c23ee51a3d",
+    "billNumber": "INV-202608-001",
+    "flatId": "6a83020bb28a5b6a0d852cc1",
+    "residentId": "6a82fd057aad582510fe605f",
+    "billingMonth": "2026-08",
+    "amountDue": 3000,
+    "breakdown": {
+      "waterCharges": 500,
+      "securityCharges": 800,
+      "repairCharges": 400,
+      "commonAreaCharges": 800
+    },
+    "dueDate": "2026-08-25T00:00:00.000Z",
+    "penaltyAmount": 0,
+    "paymentStatus": "PAID",
+    "paymentMethod": "NET_BANKING",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "TXN-1786984108419-9240",
+    "paidAt": "2026-08-17T16:28:28.420Z",
+    "createdAt": "2026-08-17T16:26:24.710Z",
+    "updatedAt": "2026-08-17T16:28:28.420Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d51d7e8ef293d60ed7",
+    "billNumber": "INV-202606-002",
+    "flatId": "6a8359a51d7e8ef293d60e94",
+    "residentId": "6a8359ae1d7e8ef293d60ea8",
+    "billingMonth": "2026-06",
+    "amountDue": 2500,
+    "breakdown": {
+      "waterCharges": 500,
+      "securityCharges": 800,
+      "repairCharges": 400,
+      "commonAreaCharges": 800
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 0,
+    "paymentStatus": "PAID",
+    "paymentMethod": "UPI",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "TXN214082722",
+    "paidAt": "2026-08-12T18:58:29.041Z",
+    "createdAt": "2026-08-17T18:58:29.042Z",
+    "updatedAt": "2026-08-17T18:58:29.042Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d51d7e8ef293d60ed8",
+    "billNumber": "INV-202606-003",
+    "flatId": "6a8359a91d7e8ef293d60e95",
+    "residentId": "6a8359ae1d7e8ef293d60ea9",
+    "billingMonth": "2026-06",
+    "amountDue": 2800,
+    "breakdown": {
+      "waterCharges": 560,
+      "securityCharges": 896,
+      "repairCharges": 448,
+      "commonAreaCharges": 896
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 140,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:29.303Z",
+    "updatedAt": "2026-08-17T19:09:59.914Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d51d7e8ef293d60ed9",
+    "billNumber": "INV-202606-004",
+    "flatId": "6a8359a91d7e8ef293d60e96",
+    "residentId": "6a8359ae1d7e8ef293d60eaa",
+    "billingMonth": "2026-06",
+    "amountDue": 2800,
+    "breakdown": {
+      "waterCharges": 560,
+      "securityCharges": 896,
+      "repairCharges": 448,
+      "commonAreaCharges": 896
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 140,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:29.578Z",
+    "updatedAt": "2026-08-17T18:58:29.578Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d51d7e8ef293d60eda",
+    "billNumber": "INV-202606-005",
+    "flatId": "6a8359a91d7e8ef293d60e97",
+    "residentId": "6a8359af1d7e8ef293d60eab",
+    "billingMonth": "2026-06",
+    "amountDue": 2200,
+    "breakdown": {
+      "waterCharges": 440,
+      "securityCharges": 704,
+      "repairCharges": 352,
+      "commonAreaCharges": 704
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 110,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:29.811Z",
+    "updatedAt": "2026-08-17T18:58:29.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d61d7e8ef293d60edb",
+    "billNumber": "INV-202606-006",
+    "flatId": "6a8359aa1d7e8ef293d60e98",
+    "residentId": "6a8359af1d7e8ef293d60eac",
+    "billingMonth": "2026-06",
+    "amountDue": 3500,
+    "breakdown": {
+      "waterCharges": 700,
+      "securityCharges": 1120,
+      "repairCharges": 560,
+      "commonAreaCharges": 1120
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 0,
+    "paymentStatus": "PAID",
+    "paymentMethod": "NET_BANKING",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "TXN804203688",
+    "paidAt": "2026-08-11T18:58:30.076Z",
+    "createdAt": "2026-08-17T18:58:30.076Z",
+    "updatedAt": "2026-08-17T18:58:30.076Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d61d7e8ef293d60edc",
+    "billNumber": "INV-202606-007",
+    "flatId": "6a8359aa1d7e8ef293d60e99",
+    "residentId": "6a8359af1d7e8ef293d60ead",
+    "billingMonth": "2026-06",
+    "amountDue": 3000,
+    "breakdown": {
+      "waterCharges": 600,
+      "securityCharges": 960,
+      "repairCharges": 480,
+      "commonAreaCharges": 960
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 150,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:30.349Z",
+    "updatedAt": "2026-08-17T18:58:30.349Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d61d7e8ef293d60edd",
+    "billNumber": "INV-202606-008",
+    "flatId": "6a8359aa1d7e8ef293d60e9a",
+    "residentId": "6a8359b01d7e8ef293d60eae",
+    "billingMonth": "2026-06",
+    "amountDue": 3500,
+    "breakdown": {
+      "waterCharges": 700,
+      "securityCharges": 1120,
+      "repairCharges": 560,
+      "commonAreaCharges": 1120
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 0,
+    "paymentStatus": "PAID",
+    "paymentMethod": "UPI",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "TXN561820774",
+    "paidAt": "2026-08-06T18:58:30.584Z",
+    "createdAt": "2026-08-17T18:58:30.585Z",
+    "updatedAt": "2026-08-17T18:58:30.585Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d71d7e8ef293d60ede",
+    "billNumber": "INV-202606-009",
+    "flatId": "6a8359ab1d7e8ef293d60e9b",
+    "residentId": "6a8359b01d7e8ef293d60eaf",
+    "billingMonth": "2026-06",
+    "amountDue": 2500,
+    "breakdown": {
+      "waterCharges": 500,
+      "securityCharges": 800,
+      "repairCharges": 400,
+      "commonAreaCharges": 800
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 125,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:31.428Z",
+    "updatedAt": "2026-08-17T18:58:31.428Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d81d7e8ef293d60edf",
+    "billNumber": "INV-202606-010",
+    "flatId": "6a8359ab1d7e8ef293d60e9c",
+    "residentId": "6a8359b01d7e8ef293d60eb0",
+    "billingMonth": "2026-06",
+    "amountDue": 3000,
+    "breakdown": {
+      "waterCharges": 600,
+      "securityCharges": 960,
+      "repairCharges": 480,
+      "commonAreaCharges": 960
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 0,
+    "paymentStatus": "PAID",
+    "paymentMethod": "UPI",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "TXN702828719",
+    "paidAt": "2026-08-13T18:58:32.016Z",
+    "createdAt": "2026-08-17T18:58:32.016Z",
+    "updatedAt": "2026-08-17T18:58:32.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359d91d7e8ef293d60ee0",
+    "billNumber": "INV-202606-011",
+    "flatId": "6a8359ab1d7e8ef293d60e9d",
+    "residentId": "6a8359b01d7e8ef293d60eb1",
+    "billingMonth": "2026-06",
+    "amountDue": 3000,
+    "breakdown": {
+      "waterCharges": 600,
+      "securityCharges": 960,
+      "repairCharges": 480,
+      "commonAreaCharges": 960
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 150,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:33.665Z",
+    "updatedAt": "2026-08-17T18:58:33.665Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359dc1d7e8ef293d60ee1",
+    "billNumber": "INV-202606-012",
+    "flatId": "6a8359ac1d7e8ef293d60e9e",
+    "residentId": "6a8359b11d7e8ef293d60eb2",
+    "billingMonth": "2026-06",
+    "amountDue": 3000,
+    "breakdown": {
+      "waterCharges": 600,
+      "securityCharges": 960,
+      "repairCharges": 480,
+      "commonAreaCharges": 960
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 150,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:36.324Z",
+    "updatedAt": "2026-08-17T19:10:00.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359dc1d7e8ef293d60ee2",
+    "billNumber": "INV-202606-013",
+    "flatId": "6a8359ac1d7e8ef293d60e9f",
+    "residentId": "6a8359b11d7e8ef293d60eb3",
+    "billingMonth": "2026-06",
+    "amountDue": 2200,
+    "breakdown": {
+      "waterCharges": 440,
+      "securityCharges": 704,
+      "repairCharges": 352,
+      "commonAreaCharges": 704
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 110,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:36.684Z",
+    "updatedAt": "2026-08-17T19:10:00.092Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359de1d7e8ef293d60ee3",
+    "billNumber": "INV-202606-014",
+    "flatId": "6a8359ac1d7e8ef293d60ea0",
+    "residentId": "6a8359b11d7e8ef293d60eb4",
+    "billingMonth": "2026-06",
+    "amountDue": 2200,
+    "breakdown": {
+      "waterCharges": 440,
+      "securityCharges": 704,
+      "repairCharges": 352,
+      "commonAreaCharges": 704
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 110,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:38.001Z",
+    "updatedAt": "2026-08-17T18:58:38.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359df1d7e8ef293d60ee4",
+    "billNumber": "INV-202606-015",
+    "flatId": "6a8359ac1d7e8ef293d60ea1",
+    "residentId": "6a8359b21d7e8ef293d60eb5",
+    "billingMonth": "2026-06",
+    "amountDue": 2800,
+    "breakdown": {
+      "waterCharges": 560,
+      "securityCharges": 896,
+      "repairCharges": 448,
+      "commonAreaCharges": 896
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 0,
+    "paymentStatus": "PAID",
+    "paymentMethod": "CASH",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "TXN653097076",
+    "paidAt": "2026-08-16T18:58:39.333Z",
+    "createdAt": "2026-08-17T18:58:39.333Z",
+    "updatedAt": "2026-08-17T18:58:39.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e01d7e8ef293d60ee5",
+    "billNumber": "INV-202606-016",
+    "flatId": "6a8359ad1d7e8ef293d60ea2",
+    "residentId": "6a8359b31d7e8ef293d60eb6",
+    "billingMonth": "2026-06",
+    "amountDue": 2800,
+    "breakdown": {
+      "waterCharges": 560,
+      "securityCharges": 896,
+      "repairCharges": 448,
+      "commonAreaCharges": 896
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 0,
+    "paymentStatus": "PAID",
+    "paymentMethod": "CASH",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "TXN413117312",
+    "paidAt": "2026-08-01T18:58:40.053Z",
+    "createdAt": "2026-08-17T18:58:40.054Z",
+    "updatedAt": "2026-08-17T18:58:40.054Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e01d7e8ef293d60ee6",
+    "billNumber": "INV-202606-017",
+    "flatId": "6a8359ad1d7e8ef293d60ea3",
+    "residentId": "6a8359b31d7e8ef293d60eb7",
+    "billingMonth": "2026-06",
+    "amountDue": 2200,
+    "breakdown": {
+      "waterCharges": 440,
+      "securityCharges": 704,
+      "repairCharges": 352,
+      "commonAreaCharges": 704
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 110,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:40.292Z",
+    "updatedAt": "2026-08-17T18:58:40.292Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e01d7e8ef293d60ee7",
+    "billNumber": "INV-202606-018",
+    "flatId": "6a8359ad1d7e8ef293d60ea4",
+    "residentId": "6a8359b31d7e8ef293d60eb8",
+    "billingMonth": "2026-06",
+    "amountDue": 2500,
+    "breakdown": {
+      "waterCharges": 500,
+      "securityCharges": 800,
+      "repairCharges": 400,
+      "commonAreaCharges": 800
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 0,
+    "paymentStatus": "PAID",
+    "paymentMethod": "CASH",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "TXN622825671",
+    "paidAt": "2026-08-16T18:58:40.595Z",
+    "createdAt": "2026-08-17T18:58:40.596Z",
+    "updatedAt": "2026-08-17T18:58:40.596Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e31d7e8ef293d60ee8",
+    "billNumber": "INV-202606-019",
+    "flatId": "6a8359ad1d7e8ef293d60ea5",
+    "residentId": "6a8359b41d7e8ef293d60eb9",
+    "billingMonth": "2026-06",
+    "amountDue": 2500,
+    "breakdown": {
+      "waterCharges": 500,
+      "securityCharges": 800,
+      "repairCharges": 400,
+      "commonAreaCharges": 800
+    },
+    "dueDate": "2026-06-10T00:00:00.000Z",
+    "penaltyAmount": 125,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:43.031Z",
+    "updatedAt": "2026-08-17T18:58:43.031Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e31d7e8ef293d60ee9",
+    "billNumber": "INV-202607-020",
+    "flatId": "6a8359a51d7e8ef293d60e94",
+    "residentId": "6a8359ae1d7e8ef293d60ea8",
+    "billingMonth": "2026-07",
+    "amountDue": 2500,
+    "breakdown": {
+      "waterCharges": 500,
+      "securityCharges": 800,
+      "repairCharges": 400,
+      "commonAreaCharges": 800
+    },
+    "dueDate": "2026-07-10T00:00:00.000Z",
+    "penaltyAmount": 125,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:43.624Z",
+    "updatedAt": "2026-08-17T19:10:00.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359e61d7e8ef293d60eea",
+    "billNumber": "INV-202607-021",
+    "flatId": "6a8359a91d7e8ef293d60e95",
+    "residentId": "6a8359ae1d7e8ef293d60ea9",
+    "billingMonth": "2026-07",
+    "amountDue": 2800,
+    "breakdown": {
+      "waterCharges": 560,
+      "securityCharges": 896,
+      "repairCharges": 448,
+      "commonAreaCharges": 896
+    },
+    "dueDate": "2026-07-10T00:00:00.000Z",
+    "penaltyAmount": 140,
+    "paymentStatus": "OVERDUE",
+    "paymentMethod": "NONE",
+    "paymentReceipt": {
+      "url": "",
+      "public_id": ""
+    },
+    "transactionId": "",
+    "paidAt": null,
+    "createdAt": "2026-08-17T18:58:46.951Z",
+    "updatedAt": "2026-08-17T18:58:46.951Z",
+    "__v": 0
+  }
+]

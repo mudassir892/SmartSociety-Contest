@@ -1,0 +1,400 @@
+[
+  {
+    "_id": "6a83362d576032c23ee51a3c",
+    "title": "Annual General Body Meeting",
+    "content": "AGM scheduled Sunday 10 AM in the Clubhouse.",
+    "category": "Announcement",
+    "attachments": [],
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": true,
+    "pollOptions": [],
+    "expiresAt": null,
+    "createdAt": "2026-08-17T16:26:21.820Z",
+    "updatedAt": "2026-08-17T16:26:21.820Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a83367e576032c23ee51a3e",
+    "title": "Annual General Body Meeting",
+    "content": "AGM scheduled Sunday 10 AM in the Clubhouse.",
+    "category": "Announcement",
+    "attachments": [],
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": true,
+    "pollOptions": [],
+    "expiresAt": null,
+    "createdAt": "2026-08-17T16:27:42.546Z",
+    "updatedAt": "2026-08-17T16:27:42.546Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8347f48131616e030b860f",
+    "title": "Society Paint Color Vote",
+    "content": "Vote for the new boundary wall color.",
+    "category": "Announcement",
+    "attachments": [],
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": true,
+    "pollOptions": [
+      {
+        "optionText": "Sky Blue",
+        "votesCount": 1,
+        "votedUserIds": [
+          "6a82fd057aad582510fe605f"
+        ],
+        "_id": "6a8347f48131616e030b8610"
+      },
+      {
+        "optionText": "Sand Beige",
+        "votesCount": 0,
+        "votedUserIds": [],
+        "_id": "6a8347f48131616e030b8611"
+      },
+      {
+        "optionText": "Classic White",
+        "votesCount": 0,
+        "votedUserIds": [],
+        "_id": "6a8347f48131616e030b8612"
+      }
+    ],
+    "expiresAt": null,
+    "createdAt": "2026-08-17T17:42:12.337Z",
+    "updatedAt": "2026-08-17T17:42:17.342Z",
+    "__v": 1
+  },
+  {
+    "_id": "6a8348288131616e030b863a",
+    "title": "Society Paint Color Vote",
+    "content": "Vote for the new boundary wall color.",
+    "category": "Announcement",
+    "attachments": [],
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": true,
+    "pollOptions": [
+      {
+        "optionText": "Sky Blue",
+        "votesCount": 1,
+        "votedUserIds": [
+          "6a82fd057aad582510fe605f"
+        ],
+        "_id": "6a8348288131616e030b863b"
+      },
+      {
+        "optionText": "Sand Beige",
+        "votesCount": 0,
+        "votedUserIds": [],
+        "_id": "6a8348288131616e030b863c"
+      },
+      {
+        "optionText": "Classic White",
+        "votesCount": 0,
+        "votedUserIds": [],
+        "_id": "6a8348288131616e030b863d"
+      }
+    ],
+    "expiresAt": null,
+    "createdAt": "2026-08-17T17:43:04.346Z",
+    "updatedAt": "2026-08-17T17:43:09.881Z",
+    "__v": 1
+  },
+  {
+    "_id": "6a83488f8131616e030b867d",
+    "title": "Society Paint Color Vote",
+    "content": "Vote for the new boundary wall color.",
+    "category": "Announcement",
+    "attachments": [],
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": true,
+    "pollOptions": [
+      {
+        "optionText": "Sky Blue",
+        "votesCount": 1,
+        "votedUserIds": [
+          "6a82fd057aad582510fe605f"
+        ],
+        "_id": "6a83488f8131616e030b867e"
+      },
+      {
+        "optionText": "Sand Beige",
+        "votesCount": 0,
+        "votedUserIds": [],
+        "_id": "6a83488f8131616e030b867f"
+      },
+      {
+        "optionText": "Classic White",
+        "votesCount": 0,
+        "votedUserIds": [],
+        "_id": "6a83488f8131616e030b8680"
+      }
+    ],
+    "expiresAt": null,
+    "createdAt": "2026-08-17T17:44:47.650Z",
+    "updatedAt": "2026-08-17T17:44:53.100Z",
+    "__v": 1
+  },
+  {
+    "_id": "6a8359fc1d7e8ef293d60f21",
+    "title": "Society AGM scheduled",
+    "content": "Annual General Meeting will be held in the Community Hall on the last Sunday of this month.",
+    "category": "Event",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": false,
+    "pollOptions": [],
+    "expiresAt": null,
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:08.861Z",
+    "updatedAt": "2026-08-17T18:59:08.861Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fd1d7e8ef293d60f22",
+    "title": "Water supply maintenance",
+    "content": "Water supply will be interrupted from 10 AM to 2 PM for tank cleaning.",
+    "category": "MaintenanceNotice",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": false,
+    "pollOptions": [],
+    "expiresAt": null,
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:09.003Z",
+    "updatedAt": "2026-08-17T18:59:09.003Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fd1d7e8ef293d60f23",
+    "title": "New parking rules in effect",
+    "content": "Visitor vehicles must now be registered at the gate before entry.",
+    "category": "Rule",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "OWNERS",
+    "isPoll": false,
+    "pollOptions": [],
+    "expiresAt": null,
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:09.141Z",
+    "updatedAt": "2026-08-17T18:59:09.141Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fd1d7e8ef293d60f24",
+    "title": "Independence Day celebration",
+    "content": "Join us for flag hoisting and breakfast at the clubhouse.",
+    "category": "Event",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "OWNERS",
+    "isPoll": false,
+    "pollOptions": [],
+    "expiresAt": null,
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:09.323Z",
+    "updatedAt": "2026-08-17T18:59:09.323Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fd1d7e8ef293d60f25",
+    "title": "Fire drill this Friday",
+    "content": "A mandatory fire safety drill will be conducted for all blocks.",
+    "category": "Announcement",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "OWNERS",
+    "isPoll": false,
+    "pollOptions": [],
+    "expiresAt": null,
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:09.544Z",
+    "updatedAt": "2026-08-17T18:59:09.544Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fd1d7e8ef293d60f26",
+    "title": "Lift maintenance in Block B",
+    "content": "Block B lift will be under maintenance for two days.",
+    "category": "MaintenanceNotice",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": false,
+    "pollOptions": [],
+    "expiresAt": null,
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:09.712Z",
+    "updatedAt": "2026-08-17T18:59:09.712Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fd1d7e8ef293d60f27",
+    "title": "Diwali decoration guidelines",
+    "content": "Please avoid open flame decorations in common corridors.",
+    "category": "Rule",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "OWNERS",
+    "isPoll": false,
+    "pollOptions": [],
+    "expiresAt": null,
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:09.906Z",
+    "updatedAt": "2026-08-17T18:59:09.906Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fe1d7e8ef293d60f28",
+    "title": "Society painting project",
+    "content": "Exterior painting of all blocks begins next month.",
+    "category": "Announcement",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "OWNERS",
+    "isPoll": false,
+    "pollOptions": [],
+    "expiresAt": null,
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:10.072Z",
+    "updatedAt": "2026-08-17T18:59:10.072Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fe1d7e8ef293d60f29",
+    "title": "Which weekend works for the community picnic?",
+    "content": "Vote for your preferred weekend for the annual community picnic.",
+    "category": "Event",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": true,
+    "pollOptions": [
+      {
+        "optionText": "Option A",
+        "votesCount": 7,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f2a"
+      },
+      {
+        "optionText": "Option B",
+        "votesCount": 6,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f2b"
+      },
+      {
+        "optionText": "Option C",
+        "votesCount": 1,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f2c"
+      }
+    ],
+    "expiresAt": "2026-08-31T18:59:10.300Z",
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:10.301Z",
+    "updatedAt": "2026-08-17T18:59:10.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fe1d7e8ef293d60f2d",
+    "title": "Preferred new gym equipment?",
+    "content": "Help us decide what new equipment to add to the gymnasium.",
+    "category": "Announcement",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": true,
+    "pollOptions": [
+      {
+        "optionText": "Option A",
+        "votesCount": 11,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f2e"
+      },
+      {
+        "optionText": "Option B",
+        "votesCount": 2,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f2f"
+      },
+      {
+        "optionText": "Option C",
+        "votesCount": 3,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f30"
+      }
+    ],
+    "expiresAt": "2026-08-31T18:59:10.448Z",
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:10.448Z",
+    "updatedAt": "2026-08-17T18:59:10.448Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8359fe1d7e8ef293d60f31",
+    "title": "Should we add CCTV in the parking area?",
+    "content": "Vote on whether to install additional CCTV cameras in parking.",
+    "category": "Rule",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "OWNERS",
+    "isPoll": true,
+    "pollOptions": [
+      {
+        "optionText": "Option A",
+        "votesCount": 3,
+        "votedUserIds": [
+          "6a8359ae1d7e8ef293d60ea8"
+        ],
+        "_id": "6a8359fe1d7e8ef293d60f32"
+      },
+      {
+        "optionText": "Option B",
+        "votesCount": 9,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f33"
+      },
+      {
+        "optionText": "Option C",
+        "votesCount": 0,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f34"
+      }
+    ],
+    "expiresAt": "2026-08-31T18:59:10.625Z",
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:10.626Z",
+    "updatedAt": "2026-08-18T08:02:44.388Z",
+    "__v": 1
+  },
+  {
+    "_id": "6a8359fe1d7e8ef293d60f35",
+    "title": "Clubhouse renovation feedback",
+    "content": "Share your preference for the clubhouse renovation theme.",
+    "category": "Event",
+    "authorId": "6a82fcf97aad582510fe605e",
+    "targetAudience": "ALL",
+    "isPoll": true,
+    "pollOptions": [
+      {
+        "optionText": "Option A",
+        "votesCount": 12,
+        "votedUserIds": [
+          "6a8359ae1d7e8ef293d60ea8"
+        ],
+        "_id": "6a8359fe1d7e8ef293d60f36"
+      },
+      {
+        "optionText": "Option B",
+        "votesCount": 7,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f37"
+      },
+      {
+        "optionText": "Option C",
+        "votesCount": 9,
+        "votedUserIds": [],
+        "_id": "6a8359fe1d7e8ef293d60f38"
+      }
+    ],
+    "expiresAt": "2026-08-31T18:59:10.798Z",
+    "attachments": [],
+    "createdAt": "2026-08-17T18:59:10.799Z",
+    "updatedAt": "2026-08-18T08:02:40.177Z",
+    "__v": 1
+  }
+]
